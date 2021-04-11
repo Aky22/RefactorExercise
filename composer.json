@@ -1,0 +1,19 @@
+{
+    "name": "erosa/refactor_exercise",
+    "description": "Refactor exercise project for Webshippy interview",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Eros Akor",
+            "email": "erosakos02@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "RefactorExercise\\": "src/"
+        }
+    }
+}
